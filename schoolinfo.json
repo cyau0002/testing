@@ -1,0 +1,92 @@
+{
+  "contacts": [
+    {
+      "id": "c5657",
+      "name": "香港大學",
+      "website": "https://www.hku.hk/c_index.html",
+      "address": "香港薄扶林道香港大學",
+      "District": "中西區",
+      "phone": {
+        "mobile": "28592111",
+        "Fax": "28582549"
+      }
+    },
+    {
+      "id": "c4635",
+      "name": "香港中文大學",
+      "website": "https://www.cuhk.edu.hk/chinese/",
+      "address": "香港新界沙田香港中文大學",
+      "District": "沙田區",
+      "phone": {
+        "mobile": "39438951",
+        "Fax": "26035184"
+      }
+    },
+    {
+      "id": "6736",
+      "name": "香港科技大學",
+      "website": "https://hkust.edu.hk/zh-hant/home",
+      "address": "香港九龍清水灣香港科技大學",
+      "District": "西貢區",
+      "phone": {
+        "mobile": "26231118",
+        "Fax": "none"
+      }
+    },
+    {
+      "id": "c2043",
+      "name": "香港浸會大學",
+      "website": "https://www.hkbu.edu.hk/eng/main/index.jsp",
+      "address": "九龍塘窩打老道224號",
+      "District": "九龍塘區",
+      "phone": {
+        "mobile": "34117400",
+        "Fax": "23387644"
+      }
+    },
+    {
+      "id": "c205",
+      "name": "香港理工大學",
+      "website": "https://www.polyu.edu.hk/tc/",
+      "address": "香港九龍紅磡香港理工大學",
+      "District": "北區",
+      "phone": {
+        "mobile": "27665111",
+        "Fax": "none"
+      }
+    },
+    {
+      "id": "c2807",
+      "name": "香港城市大學",
+      "website": "https://www.cityu.edu.hk/zh-hk",
+      "address": "九龍塘達之路83號",
+      "District": "九龍塘區",
+      "phone": {
+        "mobile": "34427654",
+        "Fax": "none"
+      }
+    },
+    {
+      "id": "c1808",
+      "name": "香港都會大學",
+      "website": "https://www.hkmu.edu.hk/tc/",
+      "address": "何文田牧愛街30號",
+      "District": "何文田區",
+      "phone": {
+        "mobile": "27112100",
+        "Fax": "27150760"
+      }
+    },
+    {
+      "id": "c8741",
+      "name": "香港教育大學",
+      "website": "https://www.eduhk.hk/zht/",
+      "address": "香港新界大埔露屏路十號",
+      "District": "大埔區",
+      "phone": {
+        "mobile": "29488888",
+        "Fax": "none"
+      }
+    }
+  ]
+}
